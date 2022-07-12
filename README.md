@@ -13,7 +13,7 @@ Fork on GitHub2693
 
 - 🌱 I’m currently learning **unity 3d, python, machine learning**
 
-- 👨‍💻 All of my projects are available at [rahulmega.me](rahulmega.me)
+- 👨‍💻 All of my projects are available at [rahulmega.me](https://rahulmega.me/)
 
 - 💬 Ask me about **html and css**
 
