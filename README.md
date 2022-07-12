@@ -7,8 +7,7 @@ My name is Rahul kumar and I'm pursuing B.Tech in Computer Science. My interests
 
 Star this repo10770
 Fork on GitHub2693
-<h1 align="center">Hi 👋, I'm Rahul kumar</h1>
-<h3 align="center">i am a first year computer science student</h3>
+
 
 <p align="left"> <a href="https://twitter.com/rahulmega84" target="blank"><img src="https://img.shields.io/twitter/follow/rahulmega84?logo=twitter&style=for-the-badge" alt="rahulmega84" /></a> </p>
 
