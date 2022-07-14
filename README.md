@@ -21,7 +21,7 @@ Fork on GitHub2693
 
 - 📄 my resume [https://rahulmega.me/resume.pdf](https://rahulmega.me/resume.pdf)
 
-- ⚡ My hobbies are **watching anime and playing video games**
+- ⚡  My hobbies are watching anime / reading manga, playing video games and learning new technologies.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
