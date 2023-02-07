@@ -9,7 +9,7 @@ Star this repo10770
 Fork on GitHub2693
 
 
-<p align="left"> <a href="https://twitter.com/rahulmega84" target="blank"><img src="https://img.shields.io/twitter/follow/rahulmega84?logo=twitter&style=for-the-badge" alt="rahulmega84" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Rahul_TY1" target="blank"><img src="https://img.shields.io/twitter/follow/Rahul_TY1?logo=twitter&style=for-the-badge" alt="Rahul_TY1" /></a> </p>
 
 - 🌱 I’m currently learning **unity 3d, python, machine learning**
 
@@ -19,13 +19,12 @@ Fork on GitHub2693
 
 - 📫 contact me via **kumar.rahul84049@gmail.com**
 
-- 📄 my resume [https://rahulmega.me/resume.pdf](https://rahulmega.me/resume.pdf)
 
-- ⚡  My hobbies are watching anime / reading manga, playing video games and learning new technologies.
+- ⚡  My hobbies are watching anime, playing chess and learning new technologies.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rahulmega84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulmega84" height="30" width="40" /></a>
+<a href="https://twitter.com/Rahul_TY1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Rahul_TY1" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/rahul-kumar-0166a2225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-kumar-0166a2225/" height="30" width="40" /></a>
 <a href="https://instagram.com/_rahul___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rahul___" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UChJ5LpfDj6fBTQ3tk_nW5lg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uchj5lpfdj6fbtq3tk_nw5lg/featured" height="30" width="40" /></a>
