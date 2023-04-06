@@ -10,18 +10,13 @@
 
 
 
-
-
-<br />
-
 Hi, I'm Rahul Kumar, a second-year computer science student with a passion for web development and app development. I love creating innovative web applications and mobile apps, and I'm always on the lookout for new technologies to learn and explore.
 In my spare time, I enjoy exploring new tech communities and attending hackathon to meet other like-minded individuals. 
 Overall, I'm dedicated to constantly improving my skills and staying up-to-date with the latest trends and advancements in the industry. I'm excited to see where this journey takes me, and I'm looking forward to the opportunities that lie ahead.
 
 
 
-  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/99110166/230390322-1f943883-1417-402f-b0ad-99c0be39901f.gif
-?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/99110166/230390322-1f943883-1417-402f-b0ad-99c0be39901f.gif" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](kumar.rahul84049@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
