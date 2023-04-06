@@ -19,7 +19,7 @@ Overall, I'm dedicated to constantly improving my skills and staying up-to-date 
 
 
   <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/99110166/230390322-1f943883-1417-402f-b0ad-99c0be39901f.gif" width="500" height="320" />
-  - 💼 any freelance work? do reach, [email](mailto: kumar.rahul84049@gmail.com) :)
+ - 💼 any freelance work? do reach, [email](mailto:kumar.rahul84049@gmailcom) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
