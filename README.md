@@ -2,7 +2,7 @@
 <a href="https://www.instagram.com/_rahul___/">
   <img align="left" alt="Rahul's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.gg/toshiro#5916">
+<a href="https://discord.gg/Toshiro#5916">
   <img align="left" alt="Rahul's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.linkedin.com/in/rahul-kumar-0166a2225/">
@@ -19,7 +19,7 @@ Overall, I'm dedicated to constantly improving my skills and staying up-to-date 
 
 
   <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/99110166/230390322-1f943883-1417-402f-b0ad-99c0be39901f.gif" width="500" height="320" />
- - 💼 any freelance work? do reach, [email](kumar.rahul84049@gmailcom) :)
+ - 💼 any freelance work? do reach, [Discord](Toshiro#5916) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
