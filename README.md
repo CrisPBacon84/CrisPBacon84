@@ -1,37 +1,44 @@
-### Hi there 👋
-
-My name is Rahul kumar and I'm pursuing B.Tech in Computer Science. My interests are in web / app development and graphic designing. I am currently learning full stack web development and android app development in flutter. Some of my hobbies are watching anime / reading manga, playing video games and learning new technologies. you can check out my website at https://rahulmega.me/
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrisPBacon84&hide=contribs,prs)
-
-Star this repo10770
-Fork on GitHub2693
-
-
-<p align="left"> <a href="https://twitter.com/Rahul_TY1" target="blank"><img src="https://img.shields.io/twitter/follow/Rahul_TY1?logo=twitter&style=for-the-badge" alt="Rahul_TY1" /></a> </p>
-
-- 🌱 I’m currently learning **unity 3d, python, machine learning**
-
-- 👨‍💻 All of my projects are available at [rahulmega.me](https://rahulmega.me/)
-
-- 💬 Ask me about **html and css**
-
-- 📫 contact me via **kumar.rahul84049@gmail.com**
+### hey there 
+<a href="https://www.instagram.com/_rahul___/">
+  <img align="left" alt="Rahul's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://discord.gg/toshiro#5916">
+  <img align="left" alt="Rahul's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://www.linkedin.com/in/rahul-kumar-0166a2225/">
+  <img align="left" alt="Rahul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>![code](https://user-images.githubusercontent.com/99110166/230390322-1f943883-1417-402f-b0ad-99c0be39901f.gif)
 
 
-- ⚡  My hobbies are watching anime, playing chess and learning new technologies.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/Rahul_TY1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Rahul_TY1" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rahul-kumar-0166a2225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-kumar-0166a2225/" height="30" width="40" /></a>
-<a href="https://instagram.com/_rahul___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rahul___" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UChJ5LpfDj6fBTQ3tk_nW5lg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uchj5lpfdj6fbtq3tk_nw5lg/featured" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kumar_rahul84049" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kumar_rahul84049" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<br />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=crispbacon84&show_icons=true&locale=en&layout=compact" alt="crispbacon84" /></p>
+Hi, I'm Rahul Kumar, a second-year computer science student with a passion for web development and app development. I love creating innovative web applications and mobile apps, and I'm always on the lookout for new technologies to learn and explore.
+In my spare time, I enjoy exploring new tech communities and attending hackathon to meet other like-minded individuals. 
+Overall, I'm dedicated to constantly improving my skills and staying up-to-date with the latest trends and advancements in the industry. I'm excited to see where this journey takes me, and I'm looking forward to the opportunities that lie ahead.
+
+
+
+  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/99110166/230390322-1f943883-1417-402f-b0ad-99c0be39901f.gif
+?raw=true" width="500" height="320" />
+  
+- 💼 any freelance work? do reach, [email](kumar.rahul84049@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
+
+**languages and tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+
+
+
+
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
+
+
+
