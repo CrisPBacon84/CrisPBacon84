@@ -22,7 +22,7 @@ Overall, I'm dedicated to constantly improving my skills and staying up-to-date 
   
  - 👨‍💻 All of my projects are available at [rahulmega.me](https://rahulmega.me/)
  - 
-- 💬 Ask me about **html, css** and javascript**
+- 💬 Ask me about **html, css** and javascript
 
 
 **languages and tools:**  
