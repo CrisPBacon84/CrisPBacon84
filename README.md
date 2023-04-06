@@ -7,7 +7,7 @@
 </a>
 <a href="https://www.linkedin.com/in/rahul-kumar-0166a2225/">
   <img align="left" alt="Rahul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>![code](https://user-images.githubusercontent.com/99110166/230390322-1f943883-1417-402f-b0ad-99c0be39901f.gif)
+
 
 
 
