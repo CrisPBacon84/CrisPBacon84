@@ -7,6 +7,8 @@
 </a>
 <a href="https://www.linkedin.com/in/rahul-kumar-0166a2225/">
   <img align="left" alt="Rahul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a>
+
 
 
 
