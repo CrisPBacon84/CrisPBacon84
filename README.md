@@ -18,7 +18,6 @@ Overall, I'm dedicated to constantly improving my skills and staying up-to-date 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CrisPBacon84&theme=dark)](https://git.io/streak-stats)
 
-  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/99110166/230390322-1f943883-1417-402f-b0ad-99c0be39901f.gif" width="500" height="320" />
 
 - 👨‍💻 All of my projects are available at [rahulmega.me](https://rahulmega.me/)
 
