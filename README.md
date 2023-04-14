@@ -29,7 +29,7 @@ Overall, I'm dedicated to constantly improving my skills and staying up-to-date 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 
-![html5](https://user-images.githubusercontent.com/99110166/232032856-cf890381-dda3-4c15-8172-682ff51dca0c.svg)
+<code><img height="20" src="https://user-images.githubusercontent.com/99110166/232032856-cf890381-dda3-4c15-8172-682ff51dca0c.svg")
 
 
 
