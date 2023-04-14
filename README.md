@@ -2,7 +2,7 @@
 <a href="https://www.instagram.com/_rahul___/">
   <img align="left" alt="Rahul's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.gg/Toshiro#5916">
+<a href="https://discord.com/users/Toshiro#5916">
   <img align="left" alt="Rahul's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.linkedin.com/in/rahul-kumar-0166a2225/">
