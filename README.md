@@ -12,7 +12,7 @@ Overall, I'm dedicated to constantly improving my skills and staying up-to-date 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CrisPBacon84&theme=dark)](https://git.io/streak-stats)
 
 
-- 👨‍💻 All of my projects are available at [rahulmega.me](https://rahulmega.me/)
+- 👨‍💻 All of my projects are available at [crispbacon84](https://crispbacon84.github.io)
 
 
 
