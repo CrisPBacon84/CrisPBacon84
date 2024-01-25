@@ -10,12 +10,13 @@ In my spare time, I enjoy exploring new tech communities and attending hackathon
 Overall, I'm dedicated to constantly improving my skills and staying up-to-date with the latest trends and advancements in the industry. I'm excited to see where this journey takes me, and I'm looking forward to the opportunities that lie ahead.
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CrisPBacon84&theme=dark&hide_long_streak=true)](https://github.com/CrisPBacon84/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CrisPBacon84&theme=dark)](https://github.com/CrisPBacon84/github-readme-streak-stats)
 
 - 👨‍💻 All of my projects are available at [crispbacon84](https://crispbacon84.github.io)
 
 **Languages and Tools:**  
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
 
 
 
