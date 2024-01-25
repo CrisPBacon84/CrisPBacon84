@@ -9,8 +9,8 @@ Hi, I'm Rahul Kumar, a third-year computer science student with a passion for we
 In my spare time, I enjoy exploring new tech communities and attending hackathon to meet other like-minded individuals. 
 Overall, I'm dedicated to constantly improving my skills and staying up-to-date with the latest trends and advancements in the industry. I'm excited to see where this journey takes me, and I'm looking forward to the opportunities that lie ahead.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=filiptronicek&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+<a href="https://github.com/CrisPBacon84/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.CrisPBacon84.vercel.app/api?username=CrisPBacon84&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
 </a>  
 
 
