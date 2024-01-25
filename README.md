@@ -12,15 +12,11 @@ Overall, I'm dedicated to constantly improving my skills and staying up-to-date 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CrisPBacon84&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-
-
 - 👨‍💻 All of my projects are available at [crispbacon84](https://crispbacon84.github.io)
 
-
-
-**languages and tools:**  
-
+**Languages and Tools:**  
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
 
 
 
