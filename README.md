@@ -1,6 +1,6 @@
 ## Hi! I'm Rahul ☕
 
-I am a passionate final-year computer science student with a keen interest in cloud technology and with a passion for web development. As a tech enthusiast, I am constantly exploring the vast landscape of cloud computing to understand its details and leverage its potential. I've gained practical experience with JavaScript. Problem-solving is my strong suit, as a hobby, I'm always on the lookout for the latest technologies to learn and explore.
+Computer Science graduate with hands-on experience in cloud infrastructure, Python scripting, and Linux system administration. Proficient in AWS services (EC2, S3, Lambda) and Python automation. Eager to contribute to dynamic IT environments as a Cloud Engineer, Python Developer, or IT Administrator.
 
 
 <p align="center">
